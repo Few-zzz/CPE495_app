@@ -1,0 +1,5 @@
+{
+  "name": "SPU Smart-Cozy",
+  "description": "A student application for classroom seat selection and real-time temperature feedback at Sripatum University.",
+  "requestFramePermissions": []
+}
